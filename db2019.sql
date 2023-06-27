@@ -5,7 +5,7 @@
  Source Server Type    : MySQL
  Source Server Version : 80015
  Source Host           : localhost:3306
- Source Schema         : db2019
+ Source Schema         : db2023
 
  Target Server Type    : MySQL
  Target Server Version : 80015
@@ -18,9 +18,9 @@ SET NAMES utf8mb4;
 SET
 FOREIGN_KEY_CHECKS = 0;
 CREATE
-database db2019;
+database db2023;
 USE
-db2019;
+db2023;
 
 -- ----------------------------
 -- Table structure for payment
